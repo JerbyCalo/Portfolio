@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and experience as a Software Engineer.
 
-![Portfolio Preview](https://jerbycalo.vercel.app/)
+![Portfolio Preview](./portfolio-screenshot.png)
 
 ## 🌟 Features
 
@@ -143,6 +143,13 @@ This project is open source and available under the [MIT License](LICENSE).
 Jerby B. Calo - [jerbyy03@gmail.com](mailto:jerbyy03@gmail.com)
 
 Project Link: [https://github.com/JerbyCalo/portfolio](https://github.com/JerbyCalo/portfolio)
+
+## 🙏 Acknowledgments
+
+- [AOS Library](https://michalsnik.github.io/aos/) for scroll animations
+- [Font Awesome](https://fontawesome.com/) for icons
+- [Google Fonts](https://fonts.google.com/) for beautiful typography
+- Inspiration from modern portfolio designs
 
 ---
 
